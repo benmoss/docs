@@ -27,7 +27,7 @@ contributor guidelines.
 
 ### Run website locally
 
-Refer to this [doc](https://github.com/knative/website/blob/main/DEVELOPMENT.md) in the website repo.
+Refer to this [doc](https://github.com/knative/website/blob/main/DEURPERS.md) in the website repo.
 
 ### Website source files
 
